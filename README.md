@@ -1,7 +1,9 @@
 ## Hi there 👋
-
+Hi, I'm Nestor Gariglio, a full-stack web developer and student of Information Systems.
+I absolutely love IT! I'm passionate about bringing solutions to everyone who needs it. I currently work with technologies like React and its frameworks like Next.JS on the client side. On the server side, I work with Node.js.
+Thanks for visiting my profile! I hope you have a comfortable and interesting experience with it.
 <!--
-**nestorgariglio/nestorgariglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GotoC0de/GotoC0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
