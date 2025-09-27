@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 22 years old and passionate about technology<br>📚 Studying Information Systems<br>🎯 Goal: To dedicate my life to Computer Science, constantly learning and growing.</p>
+<p align="left">✨ 23 years old and passionate about technology<br>📚 Studying Information Systems<br>🎯 Goal: To dedicate my life to Computer Science, constantly learning and growing.</p>
 
 ###
 
